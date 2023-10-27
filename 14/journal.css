@@ -1,0 +1,40 @@
+body { 
+  font-family:Verdana, Geneva,Arial;
+  font-size: 12px;
+}
+
+h1 {
+  font-size:26.4px;
+  color: #c60;
+}
+
+h2 {
+  font-size: 15.6px;
+  font-weight: normal;
+  color: #c60;
+}
+
+blockquote{
+  font-style: italic;
+}
+
+h1,h2 {
+		border-bottom: thin dotted #888888;
+}
+
+body{
+	color: royalblue;
+	color: rgb(65, 105, 225);
+	color: #4169E1CC;
+	color: rgba(39,177,182,0.8);
+	color: #2775b6CC;
+}
+body{
+
+	background-color: rgb(246,173,143);
+}
+
+p{
+  font-style: italic;
+  text-decoration: underline;
+}
